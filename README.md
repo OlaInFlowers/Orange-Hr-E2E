@@ -13,7 +13,7 @@ I divided manual tests cases into five test scenarios concerning issues of:
 I chose those functionalities because IMHO they are most often used.<br/>
 I tested almost the whole process of recruitment (adding candidate, recruitment processing - candidate status changing, searching for candidates using various filters, removing candidate). In logging functionality I checked actually all possible cases - authentication using valid credentials and authentication using various permutations of incorrect credentials. Employees management testing relied on verification following features: adding new employee, modifying employee`s personal data, preview job history and deleting workers. <br/>
 Generally most cases succeeded 😊. Only one failed. The application returned incorrect result when I searched for candidate by it’s name. Apart from candidates meeting the requirements the system displayed several incorrect records.<br/><br/>
-All tests scenarios are available at <br/>
+All tests scenarios are available at  <br/>
 https://docs.google.com/spreadsheets/d/12kjYPtKwmF8zu8LuNlPmehLliCcbvhQbIz2_czGggqk/edit?usp=sharing
 
 ## Automated Testing
